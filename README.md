@@ -1,4 +1,4 @@
-# Lockscreen - Couples Drawing Sync
+# Lockscreen - Drawing Sync
 
 A modern Android lockscreen replacement designed for couples to share drawings and sync notifications in real-time.
 
@@ -34,4 +34,3 @@ Built with Kotlin and modern Android APIs.
 - **Services**: `RealtimeService` manages the lifecycle and power button events.
 
 ---
-Created for HytalPioneers.
