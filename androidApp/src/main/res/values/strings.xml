@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lockscreen</string>
+    <string name="current_room_format">Current Room: %1$s</string>
+    <string name="private_room_label">PRIVATE ROOM</string>
+    <string name="appearance_label">APPEARANCE</string>
+    <string name="create_room">Create New Room</string>
+    <string name="join_room">Join</string>
+    <string name="set_wallpaper">Set Custom Wallpaper</string>
+    <string name="remove_wallpaper">Use Phone Wallpaper</string>
+    <string name="preview_lockscreen">Preview Lockscreen</string>
+    <string name="setup_tip">Tip: Enable \'Display over other apps\' and remove your system screen lock for the best experience.</string>
+</resources>
