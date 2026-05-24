@@ -1,6 +1,6 @@
 # Lockscreen - Drawing Sync
 
-A modern Android lockscreen replacement designed for couples to share drawings and sync notifications in real-time.
+A modern Android lockscreen replacement designed for couples to share drawings in real-time.
 
 ## Features
 
